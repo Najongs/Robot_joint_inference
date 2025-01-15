@@ -1,4 +1,4 @@
-# Robot_joint_inference
+# Robot joint inference
 robot angle to robot coordinate using 
 
 ## FR5 Model DH Parameters
