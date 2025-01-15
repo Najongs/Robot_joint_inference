@@ -1,5 +1,5 @@
 # Robot_joint_inference
-robot RGB-D image to robot joint (coordinate or angle)
+robot angle to robot coordinate using 
 
 ![image](./img/FR5_model_DH_parameter.png)
 
